@@ -177,7 +177,7 @@
 
 .Galeria {
 	padding-top: 10px;
-	background-color: #FFFFFF
+	background-color: #FFFFFF;
 }
 
 .BIO {
@@ -194,7 +194,7 @@
 	border: #000000;
 	border:thin;
 	border-style: solid;
-	border-color: #000000
+	border-color: #000000;
 }
 
 .img img:hover {
